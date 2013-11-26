@@ -1,0 +1,8 @@
+screenlet
+http://gnome-look.org/content/show.php/Conky+Collection+for+Linux?content=156881
+
+sudo apt-get install ubuntu-restricted-extras
+
+cairo-dock
+
+
